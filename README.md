@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreekant Kushwaha</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-- 🔭 I’m currently working on <a href="http://stagging.emilkpro.in:7130/#/home" target="blank">Expoterminal</a>
+- 🔭 I’m currently working on <a href="http://stagging.emilkpro.in:7130/#/home" target="_blank">Expoterminal</a>
 
 - 🌱 I’m currently learning **Next.Js**
 
